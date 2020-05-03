@@ -52,16 +52,4 @@
   publisher = {Elsevier {BV}},
 }
 
-@Article{Mendez2017a,
-  author    = {M.A. Mendez and M. Raiola and A. Masullo and S. Discetti and A. Ianiro and R. Theunissen and J.-M. Buchlin},
-  title     = {{POD}-based background removal for particle image velocimetry},
-  journal   = {Experimental Thermal and Fluid Science},
-  year      = {2017},
-  volume    = {80},
-  pages     = {181--192},
-  month     = {jan},
-  doi       = {10.1016/j.expthermflusci.2016.08.021},
-  publisher = {Elsevier {BV}},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
