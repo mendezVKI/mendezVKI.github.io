@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Feedback Control of Liquid Metal Coating
+description: PhD Thesis of Fabio Pino
 img: /assets/img/12.jpg
 ---
 
