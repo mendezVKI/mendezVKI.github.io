@@ -2,7 +2,7 @@
 layout: page
 title: Projects and Students
 permalink: /projects/
-description: A list of ongoing projects and previous supervised works.If you are a master student looing for an internship or master thesis project, check out the list of proposed topis here
+description: A list of ongoing projects and previous supervised works. If you are a master student looking for an internship or master thesis project, check out the list of proposed topics here
 ---
 PhD Theses
 ---
