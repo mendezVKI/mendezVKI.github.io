@@ -1,38 +1,23 @@
 ---
+layout: about
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: <strong>Your</strong> Name
+description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true
+social: true
 ---
 
-[//]: <>This is a test about my page, and this is a nice hyperlink
-[//]: <>[to research gate](https://www.researchgate.net/profile/Miguel_Mendez5) 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Hello! I am Miguel Alfonso Mendez and  I am currently Assistant Professor
- at the von Karman Institute for Fluid Dynamics. Here I teach differential
- equations for fluid mechanics, signal processing, and experimental methods
- at the Research Master program (Master after Master). My research interest 
- includes engineering modeling of fluid flows, experimental fluid mechanics,
- data-driven modal analysis, flow control, inverse problems, and machine 
- learning.
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Currently, I am supervising six Ph.D. theses in these fields and developing 
-several courses. This website collects some material about my courses,
-upcoming events, ongoing projects, and publications.
- 
- 
- 
-News
-======
-1. New Article: Our Article 'MODULO: A software for Multiscale Proper Orthogonal Decomposition of data' written with Davide Ninni has been submitted to Software X. Preprint available [here](https://arxiv.org/abs/2004.12123)
-1. New Article: Our Article 'Dynamics of the Jet Wiping Process via Integral Models' has been submitted to the Journal of Fluid Mechanics. Preprint available [here](https://arxiv.org/abs/2004.13400)
-1. New Article: Our Article 'Multiscale proper orthogonal decomposition (mPOD) of TR-PIV data-- a case study on stationary and transient cylinder wake flows' written with D. Hess and B.Watz from Dantec has been published. Preprint available [here](https://arxiv.org/abs/2001.01971)
-
-Upcoming Events
-======
-1. Keynote talk at the Congrès Francophone de Techniques Laser (CFTL). Website: https://cftl2020.org/
-1. Three Lectures at the VKI Lecture Series 'Introduction to Measurement Techniques 2020': (1) Measurement Chains, (2) Image Processing and Quantitative Visualizations, (3) Particle Image Velocimetry. Dates To be Defined.
-1. Lecture on Machine Learning for Fluid Mechanics at the VKI Lecture Series 'Optimization Methods for Computational Fluid Dynamic'. Dates To be Defined
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
