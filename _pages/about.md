@@ -16,7 +16,7 @@ profile:
 news: true
 social: true
 ---
- Hello! I am Miguel Alfonso Mendez and  I am currently Assistant Professor
+ Hello! I am Miguel Alfonso Mendez and  I am an Assistant Professor
  at the [von Karman Institute for Fluid Dynamics (VKI)](https://www.vki.ac.be/). Here I teach differential
  equations for fluid mechanics, signal processing, and experimental methods
  at the [Research Master program](https://www.vki.ac.be/index.php/research-master-in-fluid-dynamics) (Master after Master) in fluid dynamics. My research interest 
@@ -24,6 +24,6 @@ social: true
  data-driven modal analysis, flow control, inverse problems, and machine 
  learning.
 
-Currently, I am supervising various Ph.D. theses in these fields and developing 
+Currently, I am supervising several Ph.D. theses in these fields and developing 
 two courses. This website collects some material about my courses,
 upcoming events, ongoing projects, and publications.
