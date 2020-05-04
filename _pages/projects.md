@@ -64,7 +64,7 @@ Short Training program (STP), Research Master (RM) or Advanced Research Orientat
 
 - Moreira Da Luz, Comparison between CFD and 
   experimental results of the sloshing rising wave 
-  in a microgravity environment (STP), Master Thesis in  VKI SR 2019-36.
+  in a microgravity environment (STP), Master Thesis at Linköping University  VKI SR 2019-36.
 
 - Ninni, D., MODULO: A package for Multiscale Proper Orthogonal Decomposition (ARO), TN223-2020.
 
