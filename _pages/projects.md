@@ -7,7 +7,7 @@ description: A list of ongoing projects and previous supervised works.
 
 If you are a master student looking for an internship 
 or master thesis project at the von Karman Institute with my group, please check the list of
-proposed topics [here](https://mendezvki.github.io/assets/pdf/Proposal_Theses.pdf).
+proposed topics [here](https://mendezvki.github.io/assets/pdf/Proposal_Master_Theses_Mendez.pdf).
 For more information on how to apply to the Short Training Program (STP), please check [this](https://www.vki.ac.be/index.php/short-training-program).
 For the Research Master (RM) check [this](https://www.vki.ac.be/index.php/research-master-in-fluid-dynamics). 
 
